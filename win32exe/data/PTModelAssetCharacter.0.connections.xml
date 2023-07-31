@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>3606</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>3608</string>
+                </dict>
+                <key>Shooting Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>3636</string>
+                </dict>
+                <key>Bullet Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>3724</string>
+                </dict>
+                <key>Jump Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>3689</string>
+                </dict>
+                <key>Move Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>3716</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>3662</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>3612</string>
+                </array>
+            </dict>
+        </array>
+    </dict>
+</plist>
